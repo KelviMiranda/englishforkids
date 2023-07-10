@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "families",
+      "image": "https://br.freepik.com/fotos-gratis/familia-feliz-em-casa-tiro-medio_20081856.htm#query=falm%C3%ADlia%20feliz&position=23&from_view=search&track=ais"
+    },
+    {
+      "id": 2,
+      "name": "foods",
+      "images": "https://br.freepik.com/fotos-gratis/composicao-de-comida-brasileira-deliciosa-de-alto-angulo_10893934.htm#query=pratos%20t%C3%ADpicos&position=2&from_view=search&track=ais"
+    },
+    {
+      "name": "pupil",
+      "image": "https://img.freepik.com/fotos-gratis/menina-escrita-em-caderno-em-estudio_23-2147851838.jpg?size=626&ext=jpg&uid=R86761798&ga=GA1.2.422740527.1688397820&semt=ais",
+      "id": 3
+    }
+  ]
+}
