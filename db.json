@@ -1,4 +1,15 @@
 {
+
+    "users":[
+        {
+            "id":1,
+            "name":"Kelvin Miranda",
+            "email":"miranda@gmail.com",
+            "xp":0,
+            "hightscore":0
+        }
+    ],
+
   "categories": [
     {
       "id": 1,
